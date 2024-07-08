@@ -1,4 +1,8 @@
-## Hi there 👋
+
+
+![Photo of Nadim](https://github.com/Nadim-Molla/Nadim-Molla/assets/174168971/2ea38f20-448c-4ca0-ace8-2eb17be07a84)
+
+👋 Hello, I'm Nadim Molla
 
 <!--
 **Nadim-Molla/Nadim-Molla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
