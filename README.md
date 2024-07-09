@@ -19,49 +19,42 @@ I am a student with some experience in various subjects. I am eager to learn abo
 ###
 
 <div align="centre">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" /> - Beginner
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> <img width="12" />-Beginner
 </div> 
 <div align="centre">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /> 
   <img width="12" /> - Beginner
 </div> 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> - Beginner
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> 
+  <img width="12" />- Beginner
+</div> 
 
-###
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nadim-Molla&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nadim-Molla&theme=algolia)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nadim-Molla&theme=algolia)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nadim-Molla&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nadim-Molla&theme=algolia)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nadim-Molla&theme=algolia&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nadim-Molla&theme=algolia)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nadim-Molla&theme=algolia&utcOffset=8)
 
+
+## Languages
+
+  - Bangla - Native
+  - English - Intermediate
+  - Hindi - Intermediate
+  - Japanese - Beginner
+
+## Sports / Game / Activities / Hobby:
+
+  - ⚽Football, 🏏 Cricket. 
+  - 🏊‍♂️Swimming, 🚶‍♂️ Walking.
+  - Traveling, Fishing.
+
+ 
 
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src=""  />
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Nadim-Molla/Nadim-Molla/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## Education
 
