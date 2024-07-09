@@ -10,7 +10,9 @@ I am a student with some experience in various subjects. I am eager to learn abo
 
 ## Skills
 
-- Problem Solver
+  - Problem-solving
+  - Team collaboration
+  - Communication
 
 ## Experience
 
@@ -33,13 +35,41 @@ I am a student with some experience in various subjects. I am eager to learn abo
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nadim-Molla&theme=algolia)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nadim-Molla&theme=algolia)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nadim-Molla&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nadim-Molla&theme=algolia)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nadim-Molla&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nadim-Molla&theme=algolia)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nadim-Molla&theme=algolia&utcOffset=8) 
+
+
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src=""  />
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Nadim-Molla/Nadim-Molla/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## Education
 
-- Honours 3rd year
-- HSC - 2020
-- SSC - 2017
+- BBA (Honours) - National University, Management Department(3rd year).
+
+- H.S.C - Government Bangla College, Dhaka.
+
+- S.S.C - Abdullah Memorial High School, Dhaka.
 
 ## Portfolio
 
